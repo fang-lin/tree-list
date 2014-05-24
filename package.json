@@ -1,0 +1,19 @@
+{
+  "name": "tree-list",
+  "version": "0.1.0",
+  "description": "tree/list exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "underscore": "^1.6.0"
+  },
+  "keywords": [
+    "tree",
+    "list",
+    "node"
+  ],
+  "author": "Justin Fang",
+  "license": "MIT"
+}
